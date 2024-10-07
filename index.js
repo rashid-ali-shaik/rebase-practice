@@ -13,3 +13,6 @@ function func3(params) {
 function func4(params) {
   console.log("this code is func 4");
 }
+function coolFeat_1(params) {
+  console.log("this is a cool feat 1");
+}
