@@ -7,3 +7,6 @@ function coolFeat(params) {
 function func2(params) {
   console.log("this code is func 2");
 }
+function coolFeat_1(params) {
+  console.log("this is a cool feat 1");
+}
