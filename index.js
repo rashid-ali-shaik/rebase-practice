@@ -16,3 +16,6 @@ function func4(params) {
 function coolFeat_1(params) {
   console.log("this is a cool feat 1");
 }
+function coolFeat_2(params) {
+  console.log("this is a cool feat 2");
+}
