@@ -7,3 +7,6 @@ function func2(params) {
 function func3(params) {
   console.log("this code is func 3");
 }
+function func4(params) {
+  console.log("this code is func 4");
+}
